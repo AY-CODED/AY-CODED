@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Software Developer</h3>
 
 <p align="center">
-  <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="banner" />
+  <img src="https://i.imgur.com/v8Iv3EJ.png" alt="GitHub Banner" />
 </p>
 
 ---
