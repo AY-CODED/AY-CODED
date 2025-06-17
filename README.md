@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Software Developer</h3>
 
 <p align="center">
-  <img src="https://your-image-url.png" alt="Ayomipo Soyinka – Python Dev Banner" />
+<!--   <img src="https://your-image-url.png" alt="Ayomipo Soyinka – Python Dev Banner" /> -->
 </p>
 
 ---
