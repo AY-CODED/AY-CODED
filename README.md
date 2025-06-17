@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on a **Movie Website** project  
 - 🌱 I’m improving my skills in **React, TailwindCSS & modern frontend practices**  
 - 👨‍💻 All of my projects are available at my [Portfolio](https://my-portfolio-mauve-six-31.vercel.app/)  
-- 📫 How to reach me: **ayomiposoftwaredev@gmail.com**
+- 📫 How to reach me: **ayomiposoyinka@gmail.com**
 
 ---
 
@@ -50,4 +50,23 @@
 💡 I love turning complex problems into simple and beautiful frontend solutions.
 
 ---
+### 📈 Languages & Tools Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AY-CODED&layout=donut&theme=radical" alt="Top Languages Donut" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AY-CODED&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=AY-CODED&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AY-CODED&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AY-CODED&layout=donut&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=AY-CODED&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
