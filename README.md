@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Software Developer</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/v8Iv3EJ.png" alt="GitHub Banner" />
+  <img src="https://i.imgur.com/N0buwrd.png" alt="Friendly Developer Banner" />
 </p>
 
 ---
