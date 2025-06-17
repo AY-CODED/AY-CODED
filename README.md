@@ -1,15 +1,53 @@
-### Hi there 👋, Ayomipo Soyinka
-#### I am a Software Developer
-![I am a Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1 align="center">Hi there 👋, I'm Ayomipo Soyinka</h1>
+<h3 align="center">A passionate Frontend Software Developer</h3>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<p align="center">
+  <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="banner" />
+</p>
 
-Skills: JS / HTML / CSS
+---
 
-- 🔭 I’m currently working on a movie website. 
+### 💻 About Me
 
+- 🔭 I’m currently working on a **Movie Website** project  
+- 🌱 I’m improving my skills in **React, TailwindCSS & modern frontend practices**  
+- 👨‍💻 All of my projects are available at my [Portfolio](https://my-portfolio-mauve-six-31.vercel.app/)  
+- 📫 How to reach me: **ayomiposoftwaredev@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AY-CODED)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/ayomipo-soyinka-208156335/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://my-portfolio-mauve-six-31.vercel.app/)  
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AY-CODED&show_icons=true)  
+### 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AY-CODED&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AY-CODED&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/AY-CODED" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/ayomipo-soyinka-208156335/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://my-portfolio-mauve-six-31.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+💡 I love turning complex problems into simple and beautiful frontend solutions.
+
+---
 
