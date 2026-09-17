@@ -70,10 +70,6 @@
 
 ### 🚀 Featured Project
 
-<a href="https://github.com/AY-CODED">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AY-CODED&repo=BAS-App&theme=default&hide_border=true" />
-</a>
-
 **BAS App — Biometric Attendance System**
 A system for tracking attendance using biometric verification, built to solve real-world attendance tracking with speed and accuracy.
 
