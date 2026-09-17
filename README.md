@@ -77,7 +77,7 @@
 **BAS App — Biometric Attendance System**
 A system for tracking attendance using biometric verification, built to solve real-world attendance tracking with speed and accuracy.
 
-> ⚠️ Update the `repo=BAS-App` value above to match the exact repo name once it's pushed, so the pin card renders correctly.
+>
 
 <br clear="left"/>
 
@@ -86,7 +86,6 @@ A system for tracking attendance using biometric verification, built to solve re
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AY-CODED&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AY-CODED&layout=compact&theme=default&hide_border=true" />
 </p>
 
